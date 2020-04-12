@@ -1,4 +1,4 @@
-<b>Description</b>: This repository contains Certificates and Documents of Jonathon Taaffe.
+<b>Description</b>: This repository contains Certificates and Documents from Jonathon Taaffe.
 
 <b>Copyright© 2020 Jonathon Taaffe</b>
 
